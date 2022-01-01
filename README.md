@@ -1,4 +1,4 @@
-- 👋 Hi ,I am Sharmila
+- 👋 Hi,I am Sharmila
 - 👩‍🎓 I am studying B.E Computer science at MCET
 - 👀 I’m interested in developing websites
 - 👩‍💻 I am currently learning Front end devolopement at spotknack mission 2021 
