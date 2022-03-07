@@ -1,9 +1,9 @@
 ### <h1>Hi there 👋 , I am Sharmila</h1>
 
 ## <h3>I am student at MCET and Mentee at spotknack</h3>
--👩‍🎓 I am studying B.E Computer science <br>
--👀 I am intrested in developing websites <br>
--👩‍💻 I am currently learning FrontEnd at Spotknack mission 2021
+- 👩‍🎓 I am studying B.E Computer science <br>
+- 👀 I am intrested in developing websites <br>
+- 👩‍💻 I am currently learning FrontEnd at Spotknack mission 2021
 
 ### <h3>Connect with me </h3>
 
