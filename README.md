@@ -4,7 +4,6 @@
 - 👩‍🎓 I am studying B.E Computer science <br>
 - 👀 I am intrested in developing websites <br>
 - 👩‍💻 FrontEnd Developer at Spotknack mission 2021 
-- ✔ Aim of 2022 : want to become well-versed in FrontEnd
 
 ### <h3>Connect with me </h3>
 
