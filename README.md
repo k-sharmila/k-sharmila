@@ -4,7 +4,7 @@
 - 👩‍🎓 I am studying B.E Computer science <br>
 - 👀 I am intrested in developing websites <br>
 - 👩‍💻 FrontEnd Developer at Spotknack mission 2021
-- ☎️ Connect with me in <a href=linktr.ee/Sharmila_k"">http://linktr.ee/Sharmila_k</a>
+- ☎️ Connect with me in <a href=linktr.ee/Sharmila_k"">Linktree</a>
 
 
 
