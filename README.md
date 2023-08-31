@@ -19,7 +19,7 @@
 <br><br><br>
 
   
-   :zap: GitHub Stats
+:zap: GitHub Stats
 
   <img align="center" alt="k-sharmila's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=k-sharmila&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /><br>
 <br><br>
@@ -29,4 +29,4 @@
 
 :zap: My Repositories
 
-<h4><a href="https://github.com/k-sharmila/youtube-clone">1.Youtube Clone</a></h4>
+          <h4><a href="https://github.com/k-sharmila/youtube-clone">1.Youtube Clone</a></h4>
