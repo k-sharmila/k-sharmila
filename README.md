@@ -3,13 +3,10 @@
 
 - 👩‍🎓 I am studying B.E Computer science <br>
 - 👀 I am intrested in developing websites <br>
-- 👩‍💻 FrontEnd Developer at Spotknack mission 2021 
+- 👩‍💻 FrontEnd Developer at Spotknack mission 2021
+- ☎️ Connect with me in <a href=linktr.ee/Sharmila_k"">http://linktr.ee/Sharmila_k</a>
 
-### <h3>Connect with me </h3>
 
-<a href="https://twitter.com/Sharmila2707?t=EnuVeqaibWZxpi2MjXMZpg&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sharmila2707" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sharmila2003" target="blank"><img align="center" src="image/linkedin logo.png" alt="Sharmila k" height="30" width="40" /></a>
-<a href="https://instagram.com/_sharmila.k_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sharmila.k_" height="30" width="40" /></a>
 
 ### <h3>Languages and tools</h3>
 
@@ -26,7 +23,3 @@
 
 ![](http://github-readme-stats.vercel.app/api/top-langs/?username=k-sharmila&theme=radical)
 
-
-:zap:My Repositories
-
-  &nbsp;<h4><a href="https://github.com/k-sharmila/youtube-clone">1.Youtube Clone</a></h4>
